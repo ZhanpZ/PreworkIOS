@@ -53,6 +53,8 @@ I tried to implement the default tip percentage but I couldn't debug the complie
 
 I tried following the github tutorial but I think my Github Desktop has some bug/glitch and I can not commit so I just dragged my file in
 
+I tried to make the bill amount the first responder but didn't really know where to start on that
+
 ## License
 
     Copyright [2021] [Zhanping Zeng]
