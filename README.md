@@ -51,7 +51,7 @@ Describe any challenges encountered while building the app.
 
 I tried to implement the default tip percentage but I couldn't debug the complier time error from AppDelegate
 
-I tried following the github tutorial but I think my Github Desktop has some bug/glitch and I can not commit for some reason so I just drag my files in
+I tried following the github tutorial but I think my Github Desktop has some bug/glitch and I can not commit so I just dragged my file in
 
 ## License
 
