@@ -23,9 +23,9 @@ The following **optional** features are implemented:
 The following **additional** features are implemented:
 
 - [X] List anything else that you can get done to improve the app functionality!
-- A setting page
-- Dark mode can be set in the setting page
-- Default bill can be set in the setting page
+- [X] A setting page
+- [X] Dark mode can be set in the setting page
+- [X] Default bill can be set in the setting page
 
 ## Video Walkthrough
 
