@@ -35,6 +35,14 @@ Here's a walkthrough of implemented user stories:
 
 <img src='Basics.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
+**Setting Page: Dark Mode**
+
+<img src='DM.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+
+**Setting Page: Default Bill**
+
+<img src='DB.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+
 GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
 ## Notes
