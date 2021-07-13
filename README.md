@@ -31,7 +31,7 @@ The following **additional** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-Basic Operations
+**Basic Operations**
 
 <img src='BasicOperations.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
